@@ -175,3 +175,47 @@ Teaching programming, embedded systems (micro:bit), networking, and robotics.
 
 ### Clone & Run Locally
 
+
+---
+
+## 📞 Let's Connect & Work Together
+
+I'm open to:
+- ✅ **Fullstack Development** projects (startups, MVPs, production apps)
+- ✅ **Backend API** design and optimization
+- ✅ **Freelance work** on Upwork, Workana
+- ✅ **Remote positions** or positions in Guadalajara, Mexico
+- ✅ **AI/Automation** projects combining backend + LLMs
+- ✅ **Technical mentoring** for teams and students
+
+### 📧 Contact Me
+- **Email:** jega190112@gmail.com
+- **Phone:** +52 332 507 7819
+- **LinkedIn:** [linkedin.com/in/jaime-gutierrez-012b59318/](https://linkedin.com/in/jaime-gutierrez-012b59318/)
+- **Upwork:** [Coming Soon — Ask me for link]
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="upwork logo"  />
+</div>
+
+###
+
+---
+
+## ⭐ Show Some Love!
+
+If you find my projects useful, please consider:
+- ⭐ Starring my repositories
+- 🔗 Sharing with others
+- 💬 Reaching out for collaboration
+
+---
+
+**Last Updated:** November 2025  
+**Status:** 🟢 Open for freelance & remote positions
+
